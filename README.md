@@ -2,7 +2,7 @@
 
 ---
 
-### <img aling="center" src="https://cdn.dribbble.com/users/1107512/screenshots/3997677/_g.gif" width="100" alt="WebDev"/> 
+### <img aling="center" src="https://cdn.dribbble.com/users/1107512/screenshots/3997677/_g.gif" width="200" alt="WebDev"/> 
 
 ---
 
