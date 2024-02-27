@@ -2,7 +2,7 @@
 
 ---
 
-<a href="url" target="blank"><img align="center" src="https://cdn.dribbble.com/users/1107512/screenshots/3997677/_g.gif" height="100" /></a> 
+<a href="url" target="blank"><img align="center" src="https://cdn.dribbble.com/users/1107512/screenshots/3997677/_g.gif" height="300" /></a> 
 
 ---
 
