@@ -38,5 +38,5 @@ const amir = {
 
 ---
 
-### - :mailbox: Get in touch with me: 
+### :mailbox: Get in touch with me: 
 [![Telegram Badge](https://img.shields.io/badge/-Fazyl_Amirov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Fazyl_Amirov)
